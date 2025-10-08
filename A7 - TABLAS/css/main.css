@@ -1,0 +1,57 @@
+body {
+    padding-inline: 100px;
+    background: #fdfcdc;
+}
+
+h1 {
+    text-align: center;
+}
+
+#h1_b_ucm {
+    color: #0081a7;
+}
+
+hr {
+    height: 20px;
+    border: none;
+    background-color: #00afb9;
+    border-radius: 10px;
+}
+
+h2 {
+    text-decoration: underline;
+    color: #f07167;
+    font-size: 40px;
+    text-align: center;
+}
+
+.h2_dates {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+table {
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+table, th, td {
+    border: 2px solid #00afb9;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+th {
+    background-color: aquamarine;
+    font-size: 20px;
+}
+
+.col_width_100 {
+    width: 100px;
+    
+}
+
+img {
+    height: 100px;
+    display: block;
+    margin-inline: auto;
+}
